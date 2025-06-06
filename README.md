@@ -38,7 +38,7 @@ Here’s a preview of the Excel Dashboard:
 
 ##  How to Use
 
-1. Open the Excel file: `Sales_Dashboard.xlsx`
+1. Open the Excel file: `Sales_Analysis.csv`
 2. Use slicers to filter data by Region, Product, or Month
 3. View charts and KPIs for insights
 4. Use the data source sheet (`salesdata.csv`) for further analysis
